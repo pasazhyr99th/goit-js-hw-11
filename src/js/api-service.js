@@ -16,7 +16,7 @@ export default class ApiService {
       image_type: 'photo',
       orientation: 'horizontal',
       safesearch: true,
-      per_page: 100,
+      per_page: 40,
       page: this.page,
     });
 
